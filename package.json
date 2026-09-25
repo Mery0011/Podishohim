@@ -1,0 +1,19 @@
+{
+  "name": "birthday-card",
+  "version": "1.0.0",
+  "description": "Interactive birthday card",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "keywords": [
+    "birthday",
+    "typescript"
+  ],
+  "author": "Mery",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^6.0.0"
+  }
+}
